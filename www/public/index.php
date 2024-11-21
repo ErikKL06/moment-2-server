@@ -21,6 +21,7 @@
     <input type="submit" value="Skicka" />
 </form>
 
+
 <section>
 <?php
     include('inc/raknesatt.php'); 
